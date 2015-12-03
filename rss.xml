@@ -2,21 +2,14 @@
     <channel>
         <title><![CDATA[Andysworld!]]></title>
         <description><![CDATA[Andysworld!]]></description>
-        <link>https://thegrid.ai/andysworld/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Dec 2015 19:02:28 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/andysworld/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>test</p>]]></description>
-            <link>https://thegrid.ai/andysworld/a7b2d7d9-07db-4ae1-b4b3-f1bdd1e0491c/index.html</link>
-            <guid isPermaLink="false">a7b2d7d9-07db-4ae1-b4b3-f1bdd1e0491c</guid>
-            <pubDate>Thu, 03 Dec 2015 19:02:06 GMT</pubDate>
-        </item>
+        <lastBuildDate>Thu, 03 Dec 2015 19:01:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>https://thegrid.ai/andysworld/getting-started-on-the-grid/index.html</link>
+            <link>undefinedgetting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">5eb3fc9a-eecc-4a56-91a5-a0dd6b091f08</guid>
             <pubDate>Thu, 03 Dec 2015 19:01:24 GMT</pubDate>
         </item>
