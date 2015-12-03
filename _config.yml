@@ -1,6 +1,6 @@
 name: 'Andysworld!'
 favicon: null
-layout_spectrum: 0.899438199819997
+layout_spectrum: 1
 typography_spectrum: 0.33147057448513806
 title: 'Andysworld!'
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.14133416023105383
+    - '#ffffff'
+    - '#fbda28'
+    - '#b19732'
+    - '#9a1201'
+    - '#3c5691'
+  brandStrength: 1
   lightness: 0.5589572796598077
   saturation: 0.6359415834303945
   rhythmicContrast: 0.6975403092801571
