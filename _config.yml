@@ -2,6 +2,7 @@ name: 'Andysworld!'
 favicon: null
 layout_spectrum: 0.899438199819997
 typography_spectrum: 0.33147057448513806
+title: 'Andysworld!'
 cta:
   domain: null
   bucket: null
